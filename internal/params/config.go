@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/anyswap/fastmpc-service-middleware/internal/common"
+	"github.com/RWAValueRouter/ValueRouter/internal/common"
 )
 
 // Genesis hashes to enforce below configs on.

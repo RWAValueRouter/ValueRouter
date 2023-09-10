@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"github.com/anyswap/FastMulThreshold-DSA/crypto"
 	"github.com/anyswap/FastMulThreshold-DSA/crypto/secp256k1"
-	"github.com/anyswap/fastmpc-service-middleware/internal/common"
+	"github.com/RWAValueRouter/ValueRouter/internal/common"
 	"github.com/fsn-dev/cryptoCoins/coins"
 	"golang.org/x/crypto/sha3"
 	"math/rand"

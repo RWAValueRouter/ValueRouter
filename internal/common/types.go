@@ -27,7 +27,7 @@ import (
 	"strings"
 
 	"github.com/anyswap/FastMulThreshold-DSA/crypto/sha3"
-	"github.com/anyswap/fastmpc-service-middleware/internal/common/hexutil"
+	"github.com/RWAValueRouter/ValueRouter/internal/common/hexutil"
 )
 
 // Lengths of hashes and addresses in bytes.

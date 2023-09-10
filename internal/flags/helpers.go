@@ -20,7 +20,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/anyswap/fastmpc-service-middleware/internal/params"
+	"github.com/RWAValueRouter/ValueRouter/internal/params"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

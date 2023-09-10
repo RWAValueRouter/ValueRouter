@@ -2,10 +2,10 @@ package jobs
 
 import (
 	"github.com/anyswap/FastMulThreshold-DSA/log"
-	"github.com/anyswap/fastmpc-service-middleware/chains/common"
-	"github.com/anyswap/fastmpc-service-middleware/chains/tools/crypto"
-	"github.com/anyswap/fastmpc-service-middleware/chains/types"
-	"github.com/anyswap/fastmpc-service-middleware/db"
+	"github.com/RWAValueRouter/ValueRouter/chains/common"
+	"github.com/RWAValueRouter/ValueRouter/chains/tools/crypto"
+	"github.com/RWAValueRouter/ValueRouter/chains/types"
+	"github.com/RWAValueRouter/ValueRouter/db"
 	"strings"
 )
 

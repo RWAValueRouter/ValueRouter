@@ -1,8 +1,8 @@
 package jobs
 
 import (
-	"github.com/anyswap/fastmpc-service-middleware/common"
-	"github.com/anyswap/fastmpc-service-middleware/db"
+	"github.com/RWAValueRouter/ValueRouter/common"
+	"github.com/RWAValueRouter/ValueRouter/db"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 	"testing"

@@ -5,9 +5,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/anyswap/fastmpc-service-middleware/chains/common"
-	"github.com/anyswap/fastmpc-service-middleware/chains/tools/crypto"
-	"github.com/anyswap/fastmpc-service-middleware/chains/tools/rlp"
+	"github.com/RWAValueRouter/ValueRouter/chains/common"
+	"github.com/RWAValueRouter/ValueRouter/chains/tools/crypto"
+	"github.com/RWAValueRouter/ValueRouter/chains/tools/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

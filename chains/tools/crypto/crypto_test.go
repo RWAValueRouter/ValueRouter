@@ -27,8 +27,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/anyswap/fastmpc-service-middleware/chains/common"
-	"github.com/anyswap/fastmpc-service-middleware/chains/common/hexutil"
+	"github.com/RWAValueRouter/ValueRouter/chains/common"
+	"github.com/RWAValueRouter/ValueRouter/chains/common/hexutil"
 )
 
 var testAddrHex = "970e8128ab834e8eac17ab8e3812f010678cf791"

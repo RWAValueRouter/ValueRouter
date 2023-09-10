@@ -2,7 +2,7 @@ package db
 
 import (
 	"github.com/anyswap/FastMulThreshold-DSA/log"
-	"github.com/anyswap/fastmpc-service-middleware/common"
+	"github.com/RWAValueRouter/ValueRouter/common"
 	"github.com/stretchr/testify/assert"
 	"strings"
 	"testing"

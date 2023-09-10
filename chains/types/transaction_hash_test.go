@@ -1,7 +1,7 @@
 package types
 
 import (
-	"github.com/anyswap/fastmpc-service-middleware/chains/common"
+	"github.com/RWAValueRouter/ValueRouter/chains/common"
 	"math/big"
 	"testing"
 )

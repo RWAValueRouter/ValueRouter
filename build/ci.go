@@ -22,8 +22,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/anyswap/fastmpc-service-middleware/internal/build"
-	"github.com/anyswap/fastmpc-service-middleware/internal/params"
+	"github.com/RWAValueRouter/ValueRouter/internal/build"
+	"github.com/RWAValueRouter/ValueRouter/internal/params"
 )
 
 var (

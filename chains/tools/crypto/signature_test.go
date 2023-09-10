@@ -22,9 +22,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/anyswap/fastmpc-service-middleware/chains/common"
-	"github.com/anyswap/fastmpc-service-middleware/chains/common/hexutil"
-	"github.com/anyswap/fastmpc-service-middleware/chains/common/math"
+	"github.com/RWAValueRouter/ValueRouter/chains/common"
+	"github.com/RWAValueRouter/ValueRouter/chains/common/hexutil"
+	"github.com/RWAValueRouter/ValueRouter/chains/common/math"
 )
 
 var (

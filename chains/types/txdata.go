@@ -7,8 +7,8 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/anyswap/fastmpc-service-middleware/chains/common"
-	"github.com/anyswap/fastmpc-service-middleware/chains/tools/rlp"
+	"github.com/RWAValueRouter/ValueRouter/chains/common"
+	"github.com/RWAValueRouter/ValueRouter/chains/tools/rlp"
 )
 
 var (

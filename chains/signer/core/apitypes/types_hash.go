@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"github.com/anyswap/fastmpc-service-middleware/chains/tools/crypto"
+	"github.com/RWAValueRouter/ValueRouter/chains/tools/crypto"
 )
 
 type AuthToken struct {
