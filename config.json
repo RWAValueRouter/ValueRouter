@@ -1,0 +1,12 @@
+{
+  "DbConfig": {
+    "DbDriverName": "mysql",
+    "DbDriverSource": "hou:123456@tcp(127.0.0.1:3306)/smw"
+  },
+  "RedisConfig": {
+    "Addr": "localhost:6379",
+    "Password": "",
+    "DB": 0,
+    "PoolSize": 100
+  }
+}
