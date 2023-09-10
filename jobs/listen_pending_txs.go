@@ -1,7 +1,7 @@
 package jobs
 
 import (
-	"github.com/anyswap/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
 	"github.com/RWAValueRouter/ValueRouter/chains/common"
 	"github.com/RWAValueRouter/ValueRouter/chains/tools/crypto"
 	"github.com/RWAValueRouter/ValueRouter/chains/types"

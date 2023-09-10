@@ -2,7 +2,7 @@ package common
 
 import (
 	"encoding/json"
-	"github.com/anyswap/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
 	"os"
 )
 

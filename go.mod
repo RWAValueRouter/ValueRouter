@@ -3,29 +3,29 @@ module github.com/RWAValueRouter/ValueRouter
 go 1.17
 
 require (
-	github.com/anyswap/FastMulThreshold-DSA v0.0.0-20221219063726-2140c486f629
-	github.com/aristanetworks/goarista v0.0.0-20191206003309-5d8d36c240c9
-	github.com/astaxie/beego v1.12.0
+	github.com/RWAValueRouter/FastMulThreshold-DSA v0.0.0-20230910073218-fb3bb285b985
+	github.com/aristanetworks/goarista v0.0.0-20230220080635-060caa35f493
+	github.com/astaxie/beego v1.12.3
 	github.com/btcsuite/btcd v0.21.0-beta
-	github.com/ethereum/go-ethereum v1.9.14
+	github.com/ethereum/go-ethereum v1.11.2
 	github.com/fsn-dev/cryptoCoins v1.0.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-sql-driver/mysql v1.4.1
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/uuid v1.3.0
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
-	github.com/onrik/ethrpc v1.0.0
+	github.com/onrik/ethrpc v1.1.1
 	github.com/robfig/cron/v3 v3.0.0
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.8.2
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.5.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
 
 require (
-	github.com/BurntSushi/toml v0.3.1 // indirect
+	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
-	github.com/VictoriaMetrics/fastcache v1.5.7 // indirect
+	github.com/VictoriaMetrics/fastcache v1.6.0 // indirect
 	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412 // indirect
 	github.com/bartekn/go-bip39 v0.0.0-20171116152956-a05967ea095d // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -65,7 +65,7 @@ require (
 	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
-	github.com/lestrrat-go/strftime v1.0.3 // indirect
+	github.com/lestrrat-go/strftime v1.0.6 // indirect
 	github.com/libp2p/go-buffer-pool v0.0.2 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
@@ -81,10 +81,10 @@ require (
 	github.com/prometheus/common v0.39.0 // indirect
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/rakyll/statik v0.1.6 // indirect
-	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a // indirect
+	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/rjeczalik/notify v0.9.1 // indirect
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
-	github.com/rs/cors v1.7.0 // indirect
+	github.com/rs/cors v1.8.3 // indirect
 	github.com/rubblelabs/ripple v0.0.0-20190714134121-6dd7d15dd060 // indirect
 	github.com/schancel/cashaddr-converter v0.0.0-20181111022653-4769e7add95a // indirect
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
@@ -106,9 +106,9 @@ require (
 	github.com/tendermint/iavl v0.12.4 // indirect
 	github.com/tendermint/tendermint v0.32.9 // indirect
 	github.com/tendermint/tm-db v0.2.0 // indirect
-	github.com/tidwall/gjson v1.6.3 // indirect
-	github.com/tidwall/match v1.0.1 // indirect
-	github.com/tidwall/pretty v1.0.2 // indirect
+	github.com/tidwall/gjson v1.14.2 // indirect
+	github.com/tidwall/match v1.1.1 // indirect
+	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tidwall/sjson v1.1.1 // indirect
 	github.com/willf/bitset v1.1.10 // indirect
 	github.com/zondax/hid v0.9.0 // indirect
@@ -119,8 +119,8 @@ require (
 	golang.org/x/sys v0.6.0 // indirect
 	golang.org/x/text v0.8.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
-	google.golang.org/grpc v1.27.0 // indirect
+	google.golang.org/genproto v0.0.0-20230131230820-1c016267d619 // indirect
+	google.golang.org/grpc v1.52.3 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/ini.v1 v1.57.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect

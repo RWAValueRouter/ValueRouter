@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/anyswap/FastMulThreshold-DSA/cmd/utils"
-	"github.com/anyswap/FastMulThreshold-DSA/log"
-	"github.com/anyswap/FastMulThreshold-DSA/rpc"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/cmd/utils"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/rpc"
 	"github.com/RWAValueRouter/ValueRouter/common"
 	"github.com/RWAValueRouter/ValueRouter/db"
 	common2 "github.com/RWAValueRouter/ValueRouter/internal/common"
@@ -139,7 +139,7 @@ func SetLogger() {
 func init() {
 	app.Action = StartSmw
 	app.HideVersion = true // we have a command to print the version
-	app.Copyright = "Copyright 2018-2023 The anyswap Authors"
+	app.Copyright = "Copyright 2018-2023 The ValueRouter Authors"
 	app.Commands = []cli.Command{
 		versionCommand,
 		licenseCommand,
@@ -197,8 +197,8 @@ func version(ctx *cli.Context) error {
 }
 
 func license(_ *cli.Context) error {
-	fmt.Println(`Copyright (C) 2018-2023  anyswap exchange Ltd. All rights reserved.
-Copyright (C) 2018-2023 anyswap exchange
+	fmt.Println(`Copyright (C) 2018-2023  ValueRouter exchange Ltd. All rights reserved.
+Copyright (C) 2018-2023 ValueRouter exchange
 
 This library is free software; you can redistribute it and/or
 modify it under the Apache License, Version 2.0.

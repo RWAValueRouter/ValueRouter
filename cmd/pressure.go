@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/anyswap/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
 	"github.com/RWAValueRouter/ValueRouter/internal/common"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 	common3 "github.com/ethereum/go-ethereum/common"

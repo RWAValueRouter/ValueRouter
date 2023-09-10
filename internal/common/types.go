@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/anyswap/FastMulThreshold-DSA/crypto/sha3"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/crypto/sha3"
 	"github.com/RWAValueRouter/ValueRouter/internal/common/hexutil"
 )
 

@@ -18,7 +18,7 @@ package params
 
 import (
 	"fmt"
-	"github.com/anyswap/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
 )
 
 const (

@@ -3,7 +3,7 @@ package common
 import (
 	"encoding/hex"
 	"encoding/json"
-	"github.com/anyswap/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

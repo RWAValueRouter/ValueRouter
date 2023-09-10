@@ -1,6 +1,6 @@
 /*
- *  Copyright (C) 2020-2021  AnySwap Ltd. All rights reserved.
- *  Copyright (C) 2020-2021  huangweijun@anyswap.exchange
+ *  Copyright (C) 2020-2021  ValueRouter Ltd. All rights reserved.
+ *  Copyright (C) 2020-2021  huangweijun@ValueRouter.exchange
  *
  *  This library is free software; you can redistribute it and/or
  *  modify it under the Apache License, Version 2.0.
@@ -18,7 +18,7 @@ package common
 
 import (
 	"fmt"
-	"github.com/anyswap/FastMulThreshold-DSA/log"
+	"github.com/RWAValueRouter/FastMulThreshold-DSA/log"
 	"os"
 	"os/user"
 	"path/filepath"

@@ -93,7 +93,7 @@ func Env() Environment {
 
 // LocalEnv returns build environment metadata gathered from git.
 func LocalEnv() Environment {
-	env := applyEnvFlags(Environment{Name: "local", Repo: "anyswap/FastMulThreshold-DSA"})
+	env := applyEnvFlags(Environment{Name: "local", Repo: "RWAValueRouter/FastMulThreshold-DSA"})
 
 	head := readGitFile("HEAD")
 	if splits := strings.Split(head, " "); len(splits) == 2 {
